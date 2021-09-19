@@ -11,6 +11,7 @@ The total amount of rides for the city types rural (125), suburban (625, and urb
 
 
 Displaying that the total amount of rides for urban city types were respectively 13 times and 3 times of rural and suburban city types.From this the Urban city type data is shown to have 7 times the number ofdrivers of the suburban city type and 111 times more drivers than the rural city type. 
+
 ![Fig2](https://user-images.githubusercontent.com/88587406/133944268-2f6af7cc-fe84-4bd0-8694-c8d5eeb8fcf6.png)
 
 ![Fig4](https://user-images.githubusercontent.com/88587406/133944273-e42fb0cb-ecc3-4b46-9ef4-6262d5452ddf.png)
@@ -21,6 +22,7 @@ The total fares of each city type are $4327.93(rural), 19356.33(suburban), and 3
 
 ### Ratios 
 The total rides for Rural 125 with an amount of 537 drivers leaving a ratio of for every driver there are 4 rides (1:4). In the suburban area for the total amount of drivers is 8570 with a total of 625 rides with a ration of 1:13 or for every driver they’re 13 rides. The total rides for Urban areas are 1625 with an amount of 59602 drivers leaving a ratio per driver there’s 36 rides (1:36). 
+
 ![Fig6](https://user-images.githubusercontent.com/88587406/133944234-7cf89615-01c0-44a8-9e83-613ef059484f.png)
 
 ### Average Ride and Driver Fares
